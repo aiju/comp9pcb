@@ -11,6 +11,7 @@ Minor
 - JTAG traces should not go through the connector pads (in case pads get destroyed)
 - Holes for through hole components should have larger annular rings
 - FT2232D was most likely a bad idea
+- R78, R79 serve no purpose, leds pull up more strongly
 
 BOM errors
 -----------
