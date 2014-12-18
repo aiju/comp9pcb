@@ -16,6 +16,6 @@ Minor
 
 BOM errors
 -----------
-- T2 has wrong footprint. AON7534 happens to fit on this footprint by pure chance.
+- T2 has wrong footprint. AON7534 happens to fit on this footprint by pure chance. FDMS7676 fits perfectly.
 - S1 does not fit footprint
 - C194, C195, C196, C197 should be 0603, not 0402
