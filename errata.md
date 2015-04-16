@@ -13,6 +13,8 @@ Minor
 - Holes for through hole components should have larger annular rings
 - FT2232D was most likely a bad idea
 - R78, R79 serve no purpose, leds pull up more strongly
+- Should have a power LED and a power switch
+- power connector pinout doesn't match silkscreen
 
 BOM errors
 -----------
