@@ -15,6 +15,7 @@ Minor
 - R78, R79 serve no purpose, leds pull up more strongly
 - Should have a power LED and a power switch
 - power connector pinout doesn't match silkscreen
+- ETHRESET/ETHINT/USB0RESET/USB1RESET are 1.8V level, but connected to 3.3V output (can be worked around by tristating)
 
 BOM errors
 -----------
