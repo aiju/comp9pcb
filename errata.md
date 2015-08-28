@@ -1,3 +1,12 @@
+Rev 1.1
+=======
+Major
+-----
+- FT2232H requires different power sequencing
+Minor
+-----
+- Silkscreen indicates wrong polarity on tantalum capacitors (also in 1.0)
+
 Rev 1.0
 ========
 Major
