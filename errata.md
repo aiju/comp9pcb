@@ -1,3 +1,12 @@
+Rev 1.1
+=======
+Minor
+-----
+- Silkscreen indicates wrong polarity on tantalum capacitors (also in 1.0)
+- First batch lacked polarity indicators on some ICs (has been fixed in PCB layout)
+- First batch had Q31 reversed. Some boards will ship without Q31.
+- TUSB1210 power sequencing requirements conflict with zynq. Lowering the threshold for the 1.8V OK signal is probably a good idea.
+
 Rev 1.0
 ========
 Major
